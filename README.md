@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Stefan Kostic
 - 👀 I’m interested in lerning Front-end development
-- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
