@@ -1,9 +1,31 @@
-- 👋 Hi, I’m Stefan Kostic
-- 👀 I’m interested in lerning Front-end development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi there! 👋 I'm Stefan Kostic
 
-<!---
-StefanKostic88/StefanKostic88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a **JavaScript Fullstack Developer** passionate about building dynamic and efficient applications. With expertise across both frontend and backend, I specialize in creating seamless, scalable solutions using the latest JavaScript technologies.
+
+## 🔧 Technologies & Skills
+
+- **Languages**: JavaScript (JS), TypeScript (TS)
+- **Frontend**: Angular, React
+- **Backend**: Node.js, Express
+- **Cloud**: AWS (Amazon Web Services)
+
+## 🛠 What I Do
+
+- **Frontend Development**: Building responsive and engaging interfaces with React and Angular.
+- **Backend Development**: Crafting robust server-side applications with Node.js and Express, ensuring optimized API performance and security.
+- **Cloud Services**: Deploying and managing scalable applications in the cloud with AWS.
+
+## 🌱 Currently Exploring
+
+I'm always eager to expand my skill set and keep up with the latest industry trends. Right now, I'm focused on furthering my AWS knowledge and exploring advanced TypeScript patterns.
+
+## 📫 Let's Connect
+
+- **GitHub**: [https://github.com/StefanKostic88)
+- **LinkedIn**: [https://www.linkedin.com/in/cupri/)
+
+Feel free to reach out if you're interested in collaboration or have exciting projects you'd like to discuss!
+
+---
+
+Thanks for visiting my profile! 😊
