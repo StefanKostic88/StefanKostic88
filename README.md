@@ -5,7 +5,7 @@ I'm a **JavaScript Fullstack Developer** passionate about building dynamic and e
 ## 🔧 Technologies & Skills
 
 - **Languages**: JavaScript (JS), TypeScript (TS)
-- **Frontend**: Angular, React
+- **Frontend**: Angular, React, Next.js
 - **Backend**: Node.js, Express
 - **Cloud**: AWS (Amazon Web Services)
 
