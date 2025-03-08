@@ -24,6 +24,7 @@ I'm always eager to expand my skill set and keep up with the latest industry tre
 - **GitHub**: [https://github.com/StefanKostic88)
 - **LinkedIn**: [https://www.linkedin.com/in/cupri)
 - **Portfolio**: [https://stefan-kostic-portfolio.netlify.app)
+  
 Feel free to reach out if you're interested in collaboration or have exciting projects you'd like to discuss!
 
 ---
